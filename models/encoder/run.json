@@ -1,0 +1,17 @@
+{
+  "signature": "8ffc8eea0351a3e54b0f43388d073beabdf4652b15c6f39c836014985ed58749",
+  "config": {
+    "model": "intfloat/multilingual-e5-small",
+    "revision": "fd1525a9fd15316a2d503bf26ab031a61d056e98",
+    "epochs": 1,
+    "batch_size": 4,
+    "max_length": 192,
+    "lr": 2e-05,
+    "temperature": 0.07,
+    "seed": 505,
+    "data": "b87ad0b9b3842a8a0fcb0c82353d16c0b4b9d0207cd3c2159c301427841d60fa",
+    "code": "c5806fb9a04112db6e515fb13948fa0ca03bb4aed7c06473d6a130cc5beb81f6"
+  },
+  "examples": 25560,
+  "seconds_this_run": 792.8931365800017
+}

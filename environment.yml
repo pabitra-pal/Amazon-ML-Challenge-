@@ -1,0 +1,17 @@
+name: ml-challenge-er
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11.16
+  - polars=1.44.2
+  - icu=78.3
+  - libsqlite=3.53.4
+  - numpy=2.4.6
+  - rapidfuzz=3.14.6
+  - py-xgboost=3.4.2=cuda129_pyhb96f994_0
+  - libxgboost=3.4.2=cuda129_h54c741a_0
+  - ipython=9.17.1
+  - ipykernel=7.3.0
+  - jupyterlab=4.6.4
+  - nbformat=5.11.1

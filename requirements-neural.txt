@@ -1,0 +1,8 @@
+# Optional notebook 05 overlay. First recreate environment.yml.
+# Install torch==2.6.0 from https://download.pytorch.org/whl/cu124 separately.
+transformers==4.51.3
+safetensors==0.5.3
+huggingface-hub==0.30.2
+tokenizers==0.21.1
+filelock==3.32.3
+fsspec==2026.7.0

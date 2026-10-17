@@ -1,0 +1,12 @@
+# Python dependencies for normalization, retrieval and XGBoost training.
+# Use environment.yml to install Python 3.11.16 AND native ICU 78.3.
+# pip alone cannot reproduce the native ICU dependency.
+# SQLite FTS5 uses native libsqlite=3.53.4 from environment.yml.
+polars==1.44.2
+ipython==9.17.1
+ipykernel==7.3.0
+jupyterlab==4.6.4
+nbformat==5.11.1
+numpy==2.4.6
+rapidfuzz==3.14.6
+xgboost==3.4.2
